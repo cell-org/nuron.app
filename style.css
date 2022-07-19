@@ -101,6 +101,7 @@ a.dark {
   */
 }
 .row {
+  text-transform: lowercase;
   display: flex;
   color: var(--mid-color);
   max-width: 800px;
