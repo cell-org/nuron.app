@@ -401,6 +401,7 @@ The app will loop 10 times and make requests to Nuron, and Nuron will create and
 1. **Read the full Cell protocol tutorial:** Nuron is powered by Cell protocol. Check out the full tutorial documentation https://tutorial.cell.computer
 2. **Read the Cell protocol intro:** This tutorial is only scratching the surface of what the Cell protocol can do. For a quick intro to what the protocol is capable of, check out the intro documentation: https://intro.cell.computer/#/
 3. **Join Discord and ask questions:** Join the discord channel and ask questions https://discord.gg/BZtp5F6QQM
+4. **Stay updated:** Follow the nuron twitter account for updates: https://twitter.com/nuronos
 
 ---
 
