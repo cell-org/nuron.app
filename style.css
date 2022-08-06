@@ -88,6 +88,9 @@ a.dark {
   padding: 5px 10px;
   border-radius: 2px;
 }
+a.bright {
+  color: yellow;
+}
 .btn {
   padding: 5px 10px;
   display: inline-block;
@@ -170,4 +173,10 @@ footer .btn {
   font-size: 12px;
   background: none;
   color: white;
+}
+.info {
+  display: block;
+  background: gold;
+  padding: 20px;
+  margin: 20px 0;
 }
