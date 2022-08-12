@@ -77,6 +77,13 @@ npm install
 npm start
 ```
 
+if the installation fails, try running the following and retry:
+
+```
+sudo apt-get install build-essential
+```
+
+
 > See the `package.json` file to see what each NPM script does.
 
 ## 2. configure nuron
